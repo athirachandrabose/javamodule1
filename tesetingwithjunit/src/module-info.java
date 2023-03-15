@@ -1,0 +1,3 @@
+module tesetingwithjunit {
+	requires junit;
+}
